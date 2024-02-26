@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution for Desktop](./design/desktop%20solution.png)
-![Solution for Mobile](./design/mobile%20solution.png)
+-Solution for Desktop ![Solution for Desktop](./design/desktop%20solution.png)
+-Solution for Mobile ![Solution for Mobile](./design/mobile%20solution.png)
 
 ### Links
 
-- Solution URL: [Social link project solution page](https://your-solution-url.com)
-- Live Site URL: [Social link project live web page](https://your-live-site-url.com)
+- Solution URL: [Social link project solution page](https://www.frontendmentor.io/solutions/social-profile-page-my-version-perfectpixel-chrome-extension-used-WN-UqlOna1)
+- Live Site URL: [Social link project live web page](https://vignesh470.github.io/Social-link-profile/)
 
 ## My process
 
